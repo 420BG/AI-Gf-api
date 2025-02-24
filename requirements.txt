@@ -1,3 +1,12 @@
 flask
 gunicorn
 google-generativeai
+requests
+flask-cors
+flask-restful
+openai
+transformers
+torch
+firebase-admin
+pymongo
+sqlalchemy
